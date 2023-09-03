@@ -18,6 +18,3 @@ nohup java -jar sftp-perf-load-1.0.jar 1-10 perf-10k- sftp-user-1,sftp-user-2,sf
 **perf-10k-** - Filename prefix
 **sftp-user-1** -  SFTP usernames
 **100** - files count.
-
-
-
